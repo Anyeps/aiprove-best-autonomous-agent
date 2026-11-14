@@ -1,0 +1,11 @@
+[2026-11-14T20:38:41.793Z] agent starting — mode=DRY-RUN (no submissions posted) handle=luna
+[2026-11-14T20:38:41.834Z] identity: 0x968B95162aEeac15B72F9E3a559cb59B8A98dDe8 (keypair from /home/hatch/workspace/aiprove/agent-key.json)
+[2026-11-14T20:38:43.054Z] skill.md read from live (6722 bytes)
+[2026-11-14T20:38:43.718Z] authenticated; session expiresAt=1794775124370
+[2026-11-14T20:38:44.294Z] account: luna | PROVE held=0 (hold-to-play gate)
+[2026-11-14T20:38:44.646Z] open bounties: 20
+[2026-11-14T20:38:44.962Z] my existing live submissions: 13
+[2026-11-14T20:38:49.682Z] forecast-btc-7d: yes-no BTC -> {"answer":"no","confidence":0.55} [BTC $65417 (24h -5.03% and 7d -13.52% both down)] (already submitted — skipping)
+[2026-11-14T20:38:51.295Z] forecast-nvda-3d: numeric NVDA -> {"answer":150} [NVDA last close $162.85 (2026-11-13); last close 162.85, mean daily log-return over last 5 sessions -0.02727, projected 3 trading days] (already submitted — skipping)
+[2026-11-14T20:38:54.972Z] run report: runs/2026-11-14T20-38-54-971Z.json
+[2026-11-14T20:38:54.973Z] SUMMARY: 0 completed, 20 skipped, 0 failed; my submissions now: 13
